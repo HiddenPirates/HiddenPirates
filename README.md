@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HiddenPirates?tab=repositories](https://github.com/HiddenPirates?tab=repositories)
 
-- 📝 I regularly write articles on [https://blog.hiddenpirates.com](Hidden Pirates Blog)
+- 📝 I regularly write articles on [https://blog.hiddenpirates.com](https://blog.hiddenpirates.com)
 
 - 💬 Ask me about **Android and Web Apps Development**
 
