@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android and Web Apps Development**
 
-- 📫 How to reach me **hiddenpiratesofficial@gmail.com**
+- 📫 How to reach me **hiddenpirates@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
